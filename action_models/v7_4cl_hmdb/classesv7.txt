@@ -1,0 +1,4 @@
+wave 0
+shoot_gun 1
+normal 2
+turn 3
